@@ -2,7 +2,7 @@
 
 My name is Adrian Costin and this is the place I keep some of the open-source projects that I care about. 
 
-Feel free to contribute or ask me any questions if you find my software useful.
+Feel free to contribute or ask me any questions if you find anything useful here.
 
 📫 How to reach me: adriancostin6@gmail.com
 

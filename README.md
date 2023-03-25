@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Adrian Costin and this is the place I keep some of the open-source projects that I care about. 
-
-Feel free to contribute or ask me any questions if you find anything useful here.
+My name is Adrian and this is my small, personal code box. I keep stuff I'm interested/working on in here.
 
 📫 How to reach me: adriancostin6@gmail.com
 
